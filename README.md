@@ -67,5 +67,3 @@ The author’s main research interests include:
 
 * Creation date: 2025-11-16
 * Last modified date: 2025-11-16
-
-```
